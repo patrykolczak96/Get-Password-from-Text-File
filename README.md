@@ -1,4 +1,4 @@
-# Get Password from User
+# Get Password from text file
 Mini project but really helped me, quickly get password for a given user from text file with structure:
 <br>
 <code>
